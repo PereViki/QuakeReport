@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="row_height">56dp</dimen>
+    <dimen name="size_M">16dp</dimen>
+    <dimen name="size_0">0dp</dimen>
+
+
+</resources>
